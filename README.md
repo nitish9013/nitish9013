@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nitish9013
-- 👀 I’m interested in working in java backend
+- 👀 I’m interested in working with java backend
 - 🌱 I’m currently learning ui/ux and java
   
 
